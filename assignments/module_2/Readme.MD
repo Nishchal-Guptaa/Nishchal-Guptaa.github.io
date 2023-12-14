@@ -1,4 +1,5 @@
-Assignment for module_2...
+# Module-2 Coding Assignment
 
-Coursera html,css and javascript coding course assignment.
-[CLick Here](Nishchal-Guptaa.github.io/assignments/module_2/index.html)
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://Nishchal-Guptaa.github.io/assignments/module_2/index.html)
